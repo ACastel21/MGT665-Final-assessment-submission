@@ -3,7 +3,7 @@
 This project uses a supervised linear regression model to predict HbA1c levels for Hispanic male patients based on features such as age, BMI, and physical activity.
 
 ## Problem Statement
-Diabetes disproportionately affects the Hispanic population. Predicting HbA1c values helps in early diagnosis and management. This project filters the dataset to focus solely on Hispanic males to provide targeted insight and health interventions.
+Diabetes disproportionately affects the Hispanic population. Predicting HbA1c values helps in early diagnosis and management. This project filters the dataset to focus solely on Hispanic males to provide informative, predictive for minority communities.
 
 ## Methodology
 - Filtered dataset for Hispanic males
@@ -15,7 +15,7 @@ Diabetes disproportionately affects the Hispanic population. Predicting HbA1c va
 The model provides a baseline prediction with interpretable coefficients and is evaluated using MSE.
 
 ##  Reflection
-This straightforward model is designed for clarity and simplicity. Future improvements could involve:
+This supervised model is useful for clarity and simplicity. Future improvements of this model could involve:
 - Non-linear models (e.g., tree-based)
 - Feature engineering or socioeconomic factors
 - Deploying as a tool for community health centers
